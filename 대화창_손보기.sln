@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대화창_손보기", "대화창_손보기.csproj", "{A378E6A1-D15C-1871-C3D5-8C58CEF57D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대화창_손보기.Editor", "대화창_손보기.Editor.csproj", "{D0DC524A-CD6F-DBCA-3732-C22DC4C7B7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A378E6A1-D15C-1871-C3D5-8C58CEF57D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A378E6A1-D15C-1871-C3D5-8C58CEF57D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A378E6A1-D15C-1871-C3D5-8C58CEF57D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A378E6A1-D15C-1871-C3D5-8C58CEF57D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DC524A-CD6F-DBCA-3732-C22DC4C7B7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DC524A-CD6F-DBCA-3732-C22DC4C7B7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DC524A-CD6F-DBCA-3732-C22DC4C7B7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DC524A-CD6F-DBCA-3732-C22DC4C7B7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
