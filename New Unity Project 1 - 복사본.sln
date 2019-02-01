@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project 1 - 복사본", "Assembly-CSharp.csproj", "{B9E8574D-85BC-66E4-5B30-088E08EE0F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project 1 - 복사본", "Assembly-CSharp-Editor.csproj", "{03344DE3-6276-A989-BFCA-0CC96D588319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E8574D-85BC-66E4-5B30-088E08EE0F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E8574D-85BC-66E4-5B30-088E08EE0F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E8574D-85BC-66E4-5B30-088E08EE0F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E8574D-85BC-66E4-5B30-088E08EE0F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03344DE3-6276-A989-BFCA-0CC96D588319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03344DE3-6276-A989-BFCA-0CC96D588319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03344DE3-6276-A989-BFCA-0CC96D588319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03344DE3-6276-A989-BFCA-0CC96D588319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
