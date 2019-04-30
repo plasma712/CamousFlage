@@ -1,5 +1,7 @@
 <h1 align="center">CamousFlage(미채)</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/47206217/56952545-82b8b700-6b75-11e9-9532-5df1f41fe8c5.PNG"> width="480" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/47206217/56952545-82b8b700-6b75-11e9-9532-5df1f41fe8c5.PNG" width="480" /></p>
+
+
 
 ## 프로젝트 참여자
 
